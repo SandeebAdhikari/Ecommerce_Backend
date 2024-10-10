@@ -1,4 +1,4 @@
-package com.ecommerce.ecommerce;
+package com.e_commerce_singleVendorWithSpringBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
